@@ -15,6 +15,8 @@ I also have a Bachelor's degree in Production Engineering and I am currently pur
 - [ ]  AWS Certifications (Practitioner)
 - [ ]  Microsoft Power BI (PL - 300)
 
+And these are my [**Certifications**](https://drive.google.com/drive/folders/1SgKgw8wbiHKe83OTQBWxLMXkMakKaYpx?usp=sharing)
+
 ## Skills
 
   I have been programming in Python for about a year and a half, using SQL, and have knowledge of Power BI and data mining. I am currently studying for my first AWS certification as an AWS Practitioner. I have already studied C++ as well. 
