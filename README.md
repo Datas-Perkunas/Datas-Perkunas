@@ -7,7 +7,7 @@ Hello there!
 
   My name is **Allan Kisonas** and I am a Student of data science, data engineering, and analytics fields. I aim to pursue a career in data science, focusing on statistical modeling and AI.
   
-I also have a Bachelor's degree in Production Engineering and I am currently pursuing another degree in Big Data and Analytical Intelligence.
+I also have a Bachelor's degree in Industrial Engineering and I am currently pursuing another degree in Big Data and Analytical Intelligence.
 
 ## Certifications and upcoming Targets
 
