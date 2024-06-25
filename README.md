@@ -23,9 +23,8 @@ I also have a Bachelor's degree in Production Engineering and I am currently pur
 
   | Languages and Technologies| Level |
   |------|-------|
-  |
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Numpy, Pandas, Graphics|
-  ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)|Basics|
+  |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Numpy, Pandas, Graphics
+  |![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)|Basics|
   |Statistical|Engineering Level|
   |Power BI|Basics|
   |  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)| Coding and fluxogram for machines|
